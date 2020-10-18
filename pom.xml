@@ -4,8 +4,8 @@
 	<artifactId>maven-release-plugin-example</artifactId>
 	<version>0.2-SNAPSHOT</version>
 	<scm>
-		<url>https://github.com/jknite/maven-release-plugin-example</url>
-		<connection>scm:git:https://github.com/jknite/maven-release-plugin-example.git</connection>
+		<url>https://github.com/jknite/projects</url>
+		<connection>scm:git:https://github.com/jknite/projects.git</connection>
       <tag>HEAD</tag>
   </scm>
 	
